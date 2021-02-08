@@ -4,7 +4,7 @@
 
 - [x] Factory Method 工厂方法
 - [x] Abstract Factory 抽象工厂
-- [ ] Builder 生成器
+- [x] Builder 生成器
 - [ ] Prototype 原型
 - [ ] Singleton 单例
 
